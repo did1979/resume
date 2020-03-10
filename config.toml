@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "http://example.org/"
+baseURL = "https://dumortier-cv.netlify.com"
 languageCode = "en"
 title = ""
 theme = "hugo-devresume-theme"
