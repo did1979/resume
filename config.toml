@@ -14,11 +14,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
     primaryColor = "#54B689"
     textPrimaryColor = "#292929"
 
+    postSections = "posts"
+
     [params.profile]
         enable = true
         name = "Didier Dumortier"
         tagline = "Concepteur en systèmes d'information"
-        avatar = "avatar.png"
+        avatar = "uploads/cool_photo.jpg"
 
     [params.contact]
         enable = true
@@ -103,13 +105,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         body = "Oracle Aenean"
         date = "2017"
 
-
-
-
-
-
-
-
     [params.languages]
         enable = true
 
@@ -119,12 +114,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.languages.list]]
         name = "Spanish"
         level = "Professional"
-
-
-
-
-
-
 
 
     [params.interests]
@@ -140,20 +129,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         name = "Travelling"
 
 
-
-
-
-
-
-
     [params.summary]
         enable = true
-        text = "Summarise your career here. Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+#        text = "Summarise your career here. Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
 
 
     [params.experience]
         enable = true
-
         [[params.experience.list]]
         title = "Senior Software Engineer"
         dates = "2019 - Present"

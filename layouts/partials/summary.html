@@ -1,0 +1,21 @@
+<div class="resume-intro py-3">
+
+    {{ range (where .Site.RegularPages.ByTitle "Section" "posts" ) }}
+  <div class="media flex-column flex-md-row align-items-center">
+
+    {{ if .Params.image }}
+    <img class="resume-profile-image mb-3 mb-md-0 mr-md-5 ml-md-0 rounded mx-auto"
+      src="{{ .Site.BaseURL }}/{{ .Params.image }}" alt="image">
+    {{ end }}
+
+    <div class="media-body text-left">
+      <p class="mb-0">{{ .Content }}</p>
+    </div>
+    <!--//media-body-->
+
+  </div>
+  {{ end }}
+
+
+</div>
+<!--//resume-intro-->

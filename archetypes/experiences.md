@@ -2,6 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-image: ""
+company: "Carif-Oref de Normandie"
+dates: "2019 - Present"
+lieu: ""
 ---
-
