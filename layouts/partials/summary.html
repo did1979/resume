@@ -1,6 +1,6 @@
 <div class="resume-intro py-3">
 
-    {{ range (where .Site.RegularPages.ByTitle "Section" "posts" ) }}
+    {{ range (where .Site.RegularPages.ByTitle "Section" "in" "posts" ) }}
   <div class="media flex-column flex-md-row align-items-center">
 
     {{ if .Params.image }}

@@ -1,0 +1,7 @@
+{{ if .IsTranslated }}
+  {{ range .Translations }}
+  <li class="mb-2">
+    <a href="{{ .Permalink }}"><i class="fas fa-globe fa-fw fa-lg mr-2"></i>{{ .Title }}{{ if .IsPage }} ({{ i18n "wordCount" . }}){{ end }}</a>
+  </li>
+  {{ end }}
+{{ end }}

@@ -11,10 +11,10 @@
       {{ $content_parts := split .Summary "|||||||" }}
       <div class="item-content">
         <div class="row">
-          <div class="col-xs-6 col-6">
+          <div class="col-xs-12 col-md-6 col-lg-6">
             {{ index $content_parts 0 | safe.HTML }}
           </div>
-          <div class="col-xs-6 col-6">
+          <div class="col-xs-12 col-md-6 col-lg-6">
             {{ index $content_parts 1 | safe.HTML }}
           </div>
           </div>
