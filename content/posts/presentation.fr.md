@@ -5,4 +5,4 @@ draft: false
 image: "uploads/photo.jpeg"
 ---
 
-En charge de l’ensemble de l’infrastructure des systèmes d’information depuis plus de 10 ans, j’interviens sur toutes les facettes liées à l’ingénierie informatique, les systèmes d’information et la communication numérique.
+En charge de l’ensemble de l’infrastructure des systèmes d’information depuis plus de 14 ans, j’interviens sur toutes les facettes liées à l’ingénierie informatique, les systèmes d’information et la communication numérique.
