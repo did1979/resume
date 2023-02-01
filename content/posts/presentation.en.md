@@ -5,4 +5,4 @@ draft: false
 image: "uploads/photo.jpeg"
 ---
 
-In charge of the entire information systems infrastructure for more than 10 years, I work on all facets related to computer engineering, information systems and digital communication.
+In charge of the entire information systems infrastructure for more than 14 years, I work on all facets related to computer engineering, information systems and digital communication.
