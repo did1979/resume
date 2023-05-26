@@ -84,7 +84,7 @@ DefaultContentLanguage = "fr"
         [[params.skills.list]]
         title = "development"
         [[params.skills.list.items]]
-        details = "NextJS/React"
+        details = "React"
         [[params.skills.list.items]]
         details = "PHP/Symfony"
         [[params.skills.list.items]]
@@ -95,7 +95,7 @@ DefaultContentLanguage = "fr"
         [[params.skills.list.items]]
         details = "Drupal/Wordpress/Grav"
         [[params.skills.list.items]]
-        details = "Bootstrap 4/HTML5"
+        details = "Bootstrap 5/HTML5"
         [[params.skills.list.items]]
         details = "SASS/less/CSS3"
         [[params.skills.list.items]]
