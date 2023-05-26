@@ -18,17 +18,17 @@ details: []
   - Formations sur les nouveaux outils mis en place
   - Accompagnement au changement
 - Développement des sites internet
-  - En PHP - Wordpress - Drupal
-  - Librairies javascript JQuery, Angular, Node.js, d3js et Highcharts Bootstrap CSS 3 et 4
-  - Suivi des statistiques de connexions avec Google Analytics, Piwik - Mamoto
+  - PHP - Wordpress - Drupal
+  - React et NextJS
 |||||||
 * Administration systèmes et réseaux
   * Mise en place et maintenance de l'hébergement des serveurs applicatifs Apache, Nginx et des sites internet
   * Maintenance du parc informatique, téléphonie et copieurs
   * Gestion du budget matériel, licences logiciels, préconisations et validations des choix techniques
 * Développement de WebServices pour les partenaires avec NodeJs ou Talend ETL
+* Administration Apache Solr Search
 * Maintenance des outils décisionnels
-  * Gestion des univers Business Object Conception / Alimentation des bases de données PostgreSQL, Mysql
+  * Conception / Alimentation des bases de données PostgreSQL, Mysql
   * Conception de cartes d’indicateurs avec QGis
   * Développement de jobs d’alimentation avec Talend ETL
 * Mise en place et gestion de la solution Office365
