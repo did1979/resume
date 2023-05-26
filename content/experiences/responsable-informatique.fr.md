@@ -20,6 +20,7 @@ details: []
 - Développement des sites internet
   - PHP - Wordpress - Drupal
   - React et NextJS
+* Mise en place et gestion de la solution Office365
 |||||||
 * Administration systèmes et réseaux
   * Mise en place et maintenance de l'hébergement des serveurs applicatifs Apache, Nginx et des sites internet
@@ -31,6 +32,5 @@ details: []
   * Conception / Alimentation des bases de données PostgreSQL, Mysql
   * Conception de cartes d’indicateurs avec QGis
   * Développement de jobs d’alimentation avec Talend ETL
-* Mise en place et gestion de la solution Office365
 
 <!--more-->
